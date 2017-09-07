@@ -1,0 +1,11 @@
+#ignore files
+/project/
+/build/
+/target/
+/keil/*
+/**/.idea/
+/**/cmake-build*/
+/**/.work
+
+#tmp files
+*.un~
